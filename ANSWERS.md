@@ -28,4 +28,4 @@ This line checks if the pokemon we tried creating has any errors, as accounted f
 
 # Extra credit: Link your Heroku deployed app
 
-https://github.com/angelaliu1/rails-pokeportals
+https://github.com/angelaliu1/rails-pokeportal
