@@ -27,3 +27,5 @@ This line checks if the pokemon we tried creating has any errors, as accounted f
 # Give us feedback on the project and decal below!
 
 # Extra credit: Link your Heroku deployed app
+
+https://github.com/angelaliu1/rails-pokeportals
